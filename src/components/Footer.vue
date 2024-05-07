@@ -11,9 +11,9 @@
           {{ fullYear }}
           <a :href="siteUrl">{{ siteAnthor }}</a>
         </span>
-        <!-- 以下信息请不要修改哦 config.github-->
+        <!-- 以下信息请不要修改哦 Made config.github-->
         <span class="hidden">
-          &amp;&nbsp;Made&nbsp;by
+          &amp;&nbsp;Powerd&nbsp;by
           <a :href="lidu" target="_blank">
             {{ config.author }}
           </a>
