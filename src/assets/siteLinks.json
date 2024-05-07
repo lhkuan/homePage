@@ -1,32 +1,32 @@
 [
   {
     "icon": "Blog",
-    "name": "博客",
-    "link": "https://blog.lidu.ltd/"
+    "name": "产品中心",
+    "link": "https://Product.lidu.ltd/"
   },
   {
     "icon": "Cloud",
-    "name": "网盘",
-    "link": "https://pan.lidu.ltd/"
+    "name": "行业动态",
+    "link": "https://blog.lidu.ltd/"
   },
   {
     "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://music.lidu.ltd:10000/"
+    "name": "联系我们",
+    "link": "https://contacts.lidu.ltd/"
   },
   {
     "icon": "Compass",
-    "name": "起始页",
-    "link": "https://nav.lidu.ltd/"
+    "name": "企业文档",
+    "link": "https://lidu.yuque.com/"
   },
   {
     "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.lidu.ltd/"
+    "name": "工具箱",
+    "link": "https://tool.lidu.ltd/"
   },
   {
     "icon": "Fire",
-    "name": "今日热榜",
-    "link": "https://hot.lidu.ltd/"
+    "name": "企业网盘",
+    "link": "https://pan.lidu.ltd/"
   }
 ]
