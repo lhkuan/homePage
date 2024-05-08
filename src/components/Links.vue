@@ -70,10 +70,6 @@ const siteIcon = {
   Book,
   Fire,
   LaptopCode,
-  tiktok,
-  Weichat,
-  Phone,
-  Map,
 };
 
 // 链接跳转
