@@ -21,7 +21,6 @@
       />
     </transition>
     <div class="content">
-      >>  利都板材
       <!-- 可在此处自定义任意内容 -->
       <TimeCapsule />
       <MoreContent />
