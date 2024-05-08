@@ -18,7 +18,7 @@
         </div>
         <div class="version">
           <div class="num">v&nbsp;{{ config.version }}</div>
-          <el-tooltip content="Github" placement="right" :show-arrow="false">
+          <el-tooltip content="喵~~" placement="right" :show-arrow="false">
             <github-one class="github" theme="outline" size="24" @click="jumpTo(config.github)" />
           </el-tooltip>
         </div>
