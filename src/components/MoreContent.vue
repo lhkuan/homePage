@@ -1,5 +1,5 @@
 <template>
-  <div class="more-content";margin: 0 auto;>
+  <div class="more-content";>
                  卖板
       板材生涯度春秋，友朋满座共风流。
       质量严格心中守，价格公道任君求。
