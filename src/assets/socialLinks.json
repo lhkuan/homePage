@@ -7,7 +7,7 @@
   },
   {
     "name": "WeiChat",
-    "icon": "/images/icon/bilibili.png",
+    "icon": "/images/icon/weichat.png",
     "tip": "微信 联系一下",
     "url": ""
   },
@@ -24,15 +24,15 @@
     "url": "mailto:liduwood@126.com"
   },
   {
-    "name": "Twitter",
-    "icon": "/images/icon/twitter.png",
-    "tip": "你懂，我也懂~",
+    "name": "Phone",
+    "icon": "/images/icon/phone.png",
+    "tip": "找个电话，聊聊天~",
     "url": ""
   },
   {
-    "name": "Telegram",
-    "icon": "/images/icon/telegram.png",
-    "tip": "我懂，你不懂~",
+    "name": "Map",
+    "icon": "/images/icon/map.png",
+    "tip": "导航找我吧~",
     "url": ""
   }
 ]
