@@ -3,13 +3,13 @@
     "name": "TikTOK",
     "icon": "/images/icon/tiktok.png",
     "tip": "去 抖音 看看",
-    "url": ""
+    "url": "https://v.douyin.com/i2D6RgNo/"
   },
   {
     "name": "WeiChat",
     "icon": "/images/icon/weichat.png",
     "tip": "微信 联系一下",
-    "url": ""
+    "url": "https://contacts.lidu.ltd/"
   },
   {
     "name": "QQ",
@@ -27,12 +27,12 @@
     "name": "Phone",
     "icon": "/images/icon/phone.png",
     "tip": "找个电话，聊聊天~",
-    "url": ""
+    "url": "https://contacts.lidu.ltd/"
   },
   {
     "name": "Map",
     "icon": "/images/icon/map.png",
     "tip": "导航找我吧~",
-    "url": ""
+    "url": "https://map.lidu.ltd/"
   }
 ]
