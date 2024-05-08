@@ -1,6 +1,5 @@
 <template>
   <div class="more-content">您可在此编写任意内容</div>
-  <br class="more-content">这是新的一行文本。</p>
 </template>
 
 <style lang="scss" scoped>
