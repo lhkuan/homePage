@@ -1,22 +1,22 @@
 [
   {
     "icon": "Blog",
-    "name": "产品中心",
+    "name": "图片中心",
     "link": "https://Product.lidu.ltd/"
   },
   {
     "icon": "Cloud",
-    "name": "行业动态",
+    "name": "新闻动态",
     "link": "https://blog.lidu.ltd/"
   },
   {
     "icon": "CompactDisc",
-    "name": "联系我们",
+    "name": "联系方式",
     "link": "https://contacts.lidu.ltd/"
   },
   {
     "icon": "Compass",
-    "name": "企业文档",
+    "name": "文档中心",
     "link": "https://lidu.yuque.com/"
   },
   {
@@ -26,7 +26,7 @@
   },
   {
     "icon": "Fire",
-    "name": "企业网盘",
+    "name": "网盘",
     "link": "https://pan.lidu.ltd/"
   }
 ]
